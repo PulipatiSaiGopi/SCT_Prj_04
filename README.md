@@ -1,7 +1,7 @@
 # SCT_Prj_04
 SCT_DS_04-Task4
 
-🔍 Analysis of Your Project
+🔍 Analysis of the Project
 
 ✅ 1. Objective
 
